@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "1-3_hello-cargo",
+    "2_guessing-game"
+]
